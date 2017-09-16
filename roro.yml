@@ -1,2 +1,9 @@
 project: style-transfer-demo
 runtime: rorodata/sandbox
+
+services:
+    - name: default
+      function: StyleTransfer.style_transfer
+      size: Z64
+
+    
