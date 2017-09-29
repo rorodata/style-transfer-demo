@@ -5,7 +5,7 @@ In this Style Transfer Demo, we demonstrate the workings of an iterative procedu
 
 ![alt-text](stylex.jpg)
 
-Style Transfer works by starting with an array which is just random noise, and applies two loss functions to it – a Style Loss Function that gets the image closer and close in Style to the Image whose style we want to match, and a Content Loss Function that gets the image closer and closer to an image whose Content or looks we want to match. As we minimize this joint loss function, the result is an image which has the content of the Content image and style of the Style image
+Style Transfer works by starting with an array which is just random noise, and applies two loss functions to it – a Style Loss Function that gets the image closer and closer in Style to the Image whose style we want to match, and a Content Loss Function that gets the image closer and closer to an image whose Content or looks we want to match. As we minimize this joint loss function, the result is an image which has the content of the Content image and style of the Style image
 
 Please look at the notebook in the rorodata github repository [here](https://github.com/rorodata/style-transfer-demo/blob/master/notebooks/Style_Transfer_NB.ipynb) for more details.
 
