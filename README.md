@@ -22,14 +22,14 @@ To understand the big picture view about the rorodata platform, [go here](https:
 #### Steps (code only)
 ```
 > git clone https://github.com/rorodata/style-transfer-demo.git
-> cd recommender-system-demo
+> cd style-transfer-demo
 
 # NOTE: edit roro.yml to change project name to name of new project, I am using the project name style-transfer for this example
 > roro create style-transfer
 Created project: style-transfer
 
 > roro deploy
-Deploying project movie-reco. This may take a few moments ...
+Deploying project style-transfer. This may take a few moments ...
 Restarted {} services. 1
 default: https://style-transfer.rorocloud.io/
 
