@@ -30,7 +30,7 @@ Created project: style-transfer
 
 > roro deploy
 Deploying project style-transfer. This may take a few moments ...
-Restarted {} services. 1
+Restarted one service.
 default: https://style-transfer.rorocloud.io/
 
 ```
